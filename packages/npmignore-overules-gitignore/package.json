@@ -1,0 +1,12 @@
+{
+  "name": "npmignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "touch spam"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
